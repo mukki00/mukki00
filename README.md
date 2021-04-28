@@ -6,8 +6,8 @@
 > working busy in exciting open source projects. 
 > I too find myself working on new ideas 
 > and love to solve different problem sets everyday on opensource.
-> Everytime I am looking for new opportunities to learn new technologies and to take new challlanges to grow. 
-> Be a team player, I can contribute to the right team in right time to make things happened. 
+> Everyday I am looking for new opportunities to learn new technologies and to take new challlanges to grow. 
+> Be a team player, I can contribute to the right team in the right time to make things happened. 
 > If you have the same interest, most probably I think we can work together.
 > I am hustling to work with people in the opensource community. Please feel free to DM me to discuss about the projects. :crossed_fingers:**
 

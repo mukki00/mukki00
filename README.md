@@ -5,11 +5,11 @@
 > **Hope you're all doing well. I am seeing lots of programmers like yourself 
 > working busy in exciting open source projects. 
 > I too find myself working on new ideas 
-> and love to solve different problem sets everyday on opensource.
-> Everyday I am looking for new opportunities to learn new technologies and to take new challlanges to grow. 
-> Be a team player, I can contribute to the right team in the right time to make things happened. 
-> If you have the same interest, most probably I think we can work together.
-> I am hustling to work with people in the opensource community. Please feel free to DM me to discuss about the projects. :crossed_fingers:**
+> and love to solve different problem sets every day on open source.
+> Everyday I am looking for new opportunities to learn new technologies and to take new challenges to grow. 
+> Be a team player, I can contribute to the right team at the right time to make things happen. 
+> If you have the same interest, most probably, I think we can work together.
+> I am hustling to work with people in the open-source community. Please feel free to DM me to talk about the projects. :crossed_fingers:**
 
 ## Technologies now I do know :technologist:
 

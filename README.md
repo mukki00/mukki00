@@ -6,7 +6,7 @@
 >I love working on new ideas and solving different problem sets every day through open source.
 >I am always looking for new opportunities to learn and take on new challenges to grow.
 >I’m a team player who can contribute to the right team at the right time to make things happen.
->If you share the same interest, I’d love to collaborate! Please feel free to DM me about any projects. ✌️**
+>I’m always open to learning and collaborating on exciting projects. Let's connect and build something great together! 🚀.**
 
 ## Technologies now I do know :technologist:
 
@@ -29,7 +29,12 @@
 - JavaScript
 - Java
 - C#
-- GoLang
+- Go
+
+### Currently learning 📚
+- AWS
+- Kubernetes
+- GraphQL
 
 ## When you can contact me :raising_hand_man:
 
@@ -37,7 +42,3 @@
   - [Twitter](https://twitter.com/mukki_my)
   - [Stack Overflow](https://stackoverflow.com/users/9853848/honey-b?tab=profile)
   - [LinkedIn](www.linkedin.com/in/mukki00)
-
-
-
-

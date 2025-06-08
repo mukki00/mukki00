@@ -23,7 +23,7 @@
 - Laravel
 - Django
 - Flask
-- Node.js (if you know it — add it!)
+- Node.js
 
 ### Programming Languages
 - JavaScript

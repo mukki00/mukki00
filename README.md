@@ -34,7 +34,6 @@
 ## When you can contact me :raising_hand_man:
 
 ###### Feel free to contact me anytime
-  - [Github](https://github.com/mukki00)
   - [Twitter](https://twitter.com/mukki_my)
   - [Stack Overflow](https://stackoverflow.com/users/9853848/honey-b?tab=profile)
   - [LinkedIn](https://www.linkedin.com/in/mohamed-muksith-273066117)

@@ -2,14 +2,11 @@
 
 ## Intro :raised_back_of_hand:
    
-> **Hope you're all doing well. I am seeing lots of programmers like yourself 
-> working busy in exciting open source projects. 
-> I too find myself working on new ideas 
-> and love to solve different problem sets every day on open source.
-> Everyday I am looking for new opportunities to learn new technologies and to take new challenges to grow. 
-> Be a team player, I can contribute to the right team at the right time to make things happen. 
-> If you have the same interest, most probably, I think we can work together.
-> I am hustling to work with people in the open-source community. Please feel free to DM me to talk about the projects. :crossed_fingers:**
+>**I see many programmers like yourself working on exciting open source projects.
+>I love working on new ideas and solving different problem sets every day through open source.
+>I am always looking for new opportunities to learn and take on new challenges to grow.
+>I’m a team player who can contribute to the right team at the right time to make things happen.
+>If you share the same interest, I’d love to collaborate! Please feel free to DM me about any projects. ✌️**
 
 ## Technologies now I do know :technologist:
 
